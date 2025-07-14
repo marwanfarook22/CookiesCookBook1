@@ -102,7 +102,6 @@ We welcome contributions to make the Cookies Cookbook even tastier! 🍰 To cont
 
  
 
-Have questions or suggestions? Open an [issue](https://github.com/username/cookies-cookbook/issues) or reach out on [X](https://x.com/yourusername).
+Have questions or suggestions? Open an [issue]([https://github.com/username/cookies-cookbook/issues](https://github.com/marwanfarook22/CookiesCookBook1/issues)) or reach out on [Linked_in]([https://x.com/yourusername](https://www.linkedin.com/in/marwan-farook-411154314/)).
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.ME (2).markdown…]()
+ 
