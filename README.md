@@ -90,7 +90,7 @@ var chocolateRecipes = recipes.Where(r => r.Ingredients.Contains("Chocolate")).T
 - **Source Code**: The original code can be found in the course’s Git repository or in the attachment to the “Assignment - Refactoring to LINQ - Description and requirements” lecture.
 - **Validation**: After refactoring, the program has been tested to ensure it still functions correctly, maintaining the same output as the original loop-based code.
 
-Check the [src/](src/) directory for refactored code examples and comments explaining the LINQ transformations.
+Check the [src/](src/https://github.com/marwanfarook22/CookiesCookBook1/issues) directory for refactored code examples and comments explaining the LINQ transformations.
 
 ## Contributing
 We welcome contributions to make the Cookies Cookbook even tastier! 🍰 To contribute:
